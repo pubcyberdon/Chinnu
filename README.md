@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://imgur.com/a/pTTNnC6.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/KbE2Nce.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -94,7 +94,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/pubcyberdon/Chinnu).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://imgur.com/a/pTTNnC6.jpeg)
+[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
